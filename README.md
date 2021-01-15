@@ -7,7 +7,7 @@ This application allows any user to -
 1. Search for campgrounds
 2. View all campgrounds
 3. Create new campground 
-4. Share their reviews about any particular campground.
+4. Share their reviews about any particular campground.(You need to login/register to see the reviews.)
 5. View campgrounds from maps
 
 The application is made with complete authentication and authorization of users. The application is hosted on Heroku platform.
